@@ -1,0 +1,4 @@
+file:///root/prod/frontend/src/Dockerfile.dev {"mtime":1580896874845,"ctime":1580896874845,"size":0,"etag":"34im02k2e0","orphaned":false}
+FROM node:alpine
+
+WORKDIR '
