@@ -1409,9 +1409,9 @@
             "uiState": {
                 "mode": 1,
                 "x": 0,
-                "y": 0,
-                "width": 935,
-                "height": 768
+                "y": 23,
+                "width": 1920,
+                "height": 1017
             }
         },
         "openedWindows": []
